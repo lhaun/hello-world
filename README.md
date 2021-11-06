@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+Hi Humans!
+
+Larry here, I like C#.Net and MS-SQL.
